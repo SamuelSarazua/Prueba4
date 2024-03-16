@@ -1,0 +1,11 @@
+.seccion6 {
+    width: Fill (1,440px);
+    height: Hug (983px);
+    padding: 80px;   
+    gap: 80px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

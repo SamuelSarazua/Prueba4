@@ -1,0 +1,160 @@
+.conteiner {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 24px;
+}
+
+.seccion1 {
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.imagenpequena {
+    position: absolute;
+    left: 1017px;
+    background-color: white;
+    width: 296px;
+    top: 220px;
+    border-radius: 20px;
+}
+.imagentexto {
+    display: flex;
+}
+.foto-redonda {
+    width: 42px;
+    height: 42px;
+    padding-top: 14px;
+}
+.cuadro1 {
+    
+    height: 599px;
+    gap: 40px;
+    display: grid;
+    grid-column: 1/2;
+    grid-row: 1/1;
+    top: 20px;
+}
+
+.titulo {
+    width: 624px;
+    height: 144px;
+
+    font-family: Plus Jakarta Sans;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.parrafo {
+    width: 624px;
+    height: 72px;
+    opacity: 0.7;
+
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.student {
+    width: 300px;
+    height: 90px;
+    gap: 40px;
+    padding: 0 40px;
+    
+}
+
+.students {
+    width: 584px;
+    height: 24px;
+    opacity: 0.7;
+    gap: 40px;
+    border-left: 4px solid #A4074D;
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.imagenes {
+    width: 224px;
+    height: 64px;
+    border-left: 4px solid #A4074D;   
+    object-fit: cover;
+}
+
+.cuadros {
+    width: 624px;
+    height: 77px;
+    gap: 16px;
+
+    display: flex;
+
+
+}
+
+.cuadrito1 {
+    width: 140px;
+    height: 20px;
+    padding: 24px 80px 24px 80px;
+    gap: 14px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    border-radius: 16px;   
+    background: #A4074D;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadrito2 {
+    width: 240px;
+    height: 20px;
+    padding: 24px 32px 24px 32px;
+    gap: 16px;
+    border-radius: 16px;   
+    border: 1px solid #A4074D;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.titulo2 {
+    width: 624px;
+    height: 24px;
+    opacity: 0.7;
+
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.imagengrande {
+    width: 405px;
+    height: 666px;
+    border-radius: 24px;   
+
+}
